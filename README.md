@@ -1,6 +1,6 @@
 # Trap Shield Learning Phase – Project 1
 
-Welcome to **Project 1** of the Trap Shield Learning Phase! 
+Welcome to **Task 1** of the Trap Shield Learning Phase! 
 This task will help you get comfortable with **Ubuntu**, **basic Linux commands**, and **using GitHub for submissions**.
 
 ---
@@ -23,7 +23,8 @@ Once you’ve successfully booted into Ubuntu — move to Step 2.
 
 ## 💻 Step 2 – Linux Command Tasks
 
-After setting up Ubuntu, a set of **basic Linux command-based tasks** is provided in the documentation (`[docs/](https://docs.google.com/document/d/19TUtSxKawcItttCsM_pJLiwkXCgRyQM-Q945JAU5NMg/edit?tab=t.0#heading=h.3mclkcvsdhtg)` folder).
+After setting up Ubuntu, a set of **basic Linux command-based tasks** is provided in the documentation 👉  
+📄 [**Click here to open the task document**](https://docs.google.com/document/d/19TUtSxKawcItttCsM_pJLiwkXCgRyQM-Q945JAU5NMg/edit?tab=t.0#heading=h.3mclkcvsdhtg)
 
 🔹 You need to:
 - Go through the commands listed in the docs.
